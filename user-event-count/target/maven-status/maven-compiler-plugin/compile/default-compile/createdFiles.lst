@@ -1,0 +1,6 @@
+com/ververica/example/StreamingJob$ParallelEventSource.class
+com/ververica/example/StreamingJob$Event.class
+com/ververica/example/StreamingJob$CountEventsPerUser.class
+com/ververica/example/StreamingJob.class
+com/ververica/example/StreamingJob$TimestampsAndWatermarks.class
+com/ververica/example/StreamingJob$1.class

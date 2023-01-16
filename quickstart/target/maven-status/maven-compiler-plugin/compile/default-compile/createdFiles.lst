@@ -1,0 +1,6 @@
+com/flink/demo/BatchJob.class
+com/flink/demo/WordCount$LineSplitter.class
+com/flink/demo/SocketTextStreamWordCount$LineSplitter.class
+com/flink/demo/WordCount.class
+com/flink/demo/SocketTextStreamWordCount.class
+com/flink/demo/StreamingJob.class
